@@ -1,5 +1,28 @@
 
+/* font familly cdn link  */
+
+@import url(//db.onlinewebfonts.com/c/0abeb2471faeb5269db428b9eac2075e?family=GT+Walsheim+Pro+Regular);
+
+
+
 body{
-    background-color: black;
-    color: white;
+    overflow: visible;
+    background-color: #000;
+    font-family: "GT Walsheim Pro Regular";
+    /* font-family: Arial,sans-serif; */
+    color: #fff;
+
+}
+
+.containerr{
+    margin: 0 15.4%;
+    /* background-color: #fff; */
+}
+
+.imgg {
+    /* max-width: 100%; */
+    vertical-align: middle;
+    display: inline-block;
+    width: 3.7%;
+    margin-left: 15.4%;
 }
